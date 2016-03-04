@@ -1,0 +1,2 @@
+# Telegram get Sticker id Bot
+Always wondered which `file_id` that sticker has so you can use it in you bot? Just [chat](https://telegram.me/getStickerId_bot) with this bot, send him the sticker and he will send you the id back.
