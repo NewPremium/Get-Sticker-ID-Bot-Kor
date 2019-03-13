@@ -1,5 +1,5 @@
 <?php
-/* Telegram Bot Info */
+/* Telegram 봇 정보 */
 define('TOKEN', 'ABC');
 define('NAME', 'Get Sticker id');
 
